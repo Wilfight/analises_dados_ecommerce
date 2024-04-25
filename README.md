@@ -3,6 +3,9 @@
 ## Questão 1: Análise de Performance de Vendas
 ###
 ### ![Imagem do gráfico 1](imagens/grafico_1.png)
+![Imagem do gráfico 1](imagens/grafico_2.png)
+![Imagem do gráfico 1](imagens/grafico_3.png)
+![Imagem do gráfico 1](imagens/grafico_4.png)
 ###
 ## Questão 2: Análise de Logística
 ###
